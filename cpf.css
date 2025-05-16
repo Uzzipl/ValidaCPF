@@ -34,3 +34,12 @@ lael{
   front-weight: bold;
   font-size: 20px;
 }
+.form-container button {
+  background-color: #007bff;
+  width: 100%;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
